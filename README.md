@@ -42,7 +42,7 @@ Built with a focus on clean, raw coding skills:
 
 ## 🚀 Deployment Guide (Vercel)
 
-This project is optimized for deployment on [Vercel](https://vercel.com).
+This project is optimized for deployment on [Vercel](https://landing-page-bay-iota.vercel.app/).
 
 ### Option 1: Vercel Dashboard (Recommended)
 
