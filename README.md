@@ -82,4 +82,4 @@ npm run build
 
 ---
 
-_Designed & Developed with ❤️ by [Your Name]_
+_Designed & Developed with ❤️ by [Mukut Kumar]_
