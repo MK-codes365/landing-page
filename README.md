@@ -36,7 +36,7 @@ Built with a focus on clean, raw coding skills:
 
 - **React 18**: Component-based architecture.
 - **Vite**: Next-generation frontend tooling.
-- **Vanilla CSS**: Custom styling (Variables, Flexbox, Grid, Keyframes) with **ZERO** external UI libraries (no Tailwind, no Bootstrap).
+- **Vanilla CSS**: Custom styling (Variables, Flexbox, Grid, Keyframes).
 
 ---
 
