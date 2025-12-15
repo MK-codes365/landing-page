@@ -2,7 +2,8 @@
 
 > A premium, high-performance landing page built for the next generation of digital interfaces.
 
-![AuraUI Preview](src/assets/hero-dashboard.png)
+<img width="1897" height="849" alt="Screenshot 2025-12-15 133257" src="https://github.com/user-attachments/assets/fff8155b-63b7-4809-a2e7-f3c37011ba02" />
+
 
 ## 📖 About This Project
 
